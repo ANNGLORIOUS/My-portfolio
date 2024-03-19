@@ -1,0 +1,43 @@
+body{
+    background-color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: antiquewhite;
+    box-sizing: border-box; 
+    
+}
+@media {
+    .collapse{
+        padding-left: 50px;
+        padding-top: 50px;
+        color: yellow;
+        text-decoration: dashed;
+        text-align: justify;
+    }
+    .navbar-toggler{
+        container: flex;
+        margin-bottom: 5opx;
+        block-size: 50px;
+    }
+
+}
+/*home*/
+.hm{
+    height: 100vh;
+    background-image: url(/assets/images/home.jpg);
+    position: relative;
+    background-size: cover;
+}
+.image{
+    background-image: url(/assets/images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+
+    
+
+    
